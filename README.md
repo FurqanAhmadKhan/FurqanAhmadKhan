@@ -175,7 +175,7 @@ I'm a passionate <strong>Full Stack Developer</strong> with expertise in the MER
 
 <p>
 <i>⭐ Don't forget to star my repositories if you find them useful!</i><br>
-<i>✔️ Wait... You forget to follow me</i>
+<i>✔️ Wait... You have forgotten to follow me.</i>
 </p>
 
 </div>

@@ -50,7 +50,8 @@ I'm a passionate <strong>Full Stack Developer</strong> with expertise in the MER
 • 🌱 Learning: Advanced React & Data Science<br>
 • 💬 Ask me about: Web Development<br>
 • 📫 Reach me: <a href="mailto:rajooadv175@gmail.com">rajooadv175@gmail.com</a><br>
-• ⚡ Fun fact: I love solving coding challenges
+• ⚡ Fun fact: I love solving coding challenges<br>
+• 🌐 Portfolio:<a href="https://furqan-ahmad-khan.vercel.app/">Visit My Portfolio
 </p>
 </td>
 </tr>
@@ -174,6 +175,7 @@ I'm a passionate <strong>Full Stack Developer</strong> with expertise in the MER
 
 <p>
 <i>⭐ Don't forget to star my repositories if you find them useful!</i>
+<i>✔️ Wait... You forget to follow me</i>
 </p>
 
 </div>

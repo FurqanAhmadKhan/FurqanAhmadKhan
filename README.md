@@ -8,7 +8,7 @@
   <a href="mailto:rajooadv175@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/furqanahmadkhan">
+  <a href="https://www.linkedin.com/in/furqan-ahmad-khan-820173424/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
